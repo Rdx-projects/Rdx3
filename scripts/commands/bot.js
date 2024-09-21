@@ -25,7 +25,7 @@ const tl = [
 "Ek muskan tu muhje ek baar de de khwab mein hi sahi ek deedar de de. Bas ek baar kar le tu aane ka wada phir Umar Bhar ka chahe intezar de de.",
 "Janon-e-Ishq se to Khuda bi na bach saka IQBAL tarif-e-husne yar me sara quran likh diya.",
 "Itna Bhi Gumaan Na Kar Apni Jeet Par Ae Bekhabar, Sheher Mein Teri Jeet Se Zyada, Charche To Meri Haar Ke Hain ",
-"Chamak Suraj Ki Nahi Mere Kirdaar Ki Hai Khabar Ye Aasmaan Ke Akhbaar Ki Hai, Main Chaloon To Mere Sang Kaarwan Chale Baat Garoor Ki Nahi Aitwaar Ki Hai"
+"Chamak Suraj Ki Nahi Mere Kirdaar Ki Hai Khabar Ye Aasmaan Ke Akhbaar Ki Hai, Main Chaloon To Mere Sang Kaarwan Chale Baat Garoor Ki Nahi Aitwaar Ki Hai" 
 ];
 const lang = "bn";
 
